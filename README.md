@@ -4,15 +4,10 @@ Following are the multimedia project tutorials submitted for "MTA Assignment-2".
 
 
 Name: Manan Dhanuka (RA1711003010754)
-
 Reg No: RA1711003010754
-
 Batch: 2
-
 Semester: 6
-
 Dateof Submission: April 20, 2020
-
 Submitted To: Ms.Aswathy K Cherian (102217)
 
 ## Experiments
