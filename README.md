@@ -1,11 +1,18 @@
 # Multimedia Project Tutorials
 
-This is the multimedia project tutorial being presented by Manan Dhanuka (RA1711003010754).
+Following are the multimedia project tutorials submitted for "MTA Assignment-2".
+
+Name: Manan Dhanuka (RA1711003010754)
+Reg No: RA1711003010754
+Batch: 2
+Semester: 6
+Dateof Submission: April 20, 2020
+Submitted To: Ms.Aswathy K Cherian (102217)
 
 ## Experiments
 
 * [Word editor](https://drive.google.com/open?id=1MJl5aNrq-3lUgUnakpeGzT6t4ZCEneJE)
-* [Power point](https://drive.google.com/open?id=1OPliD8-DvYJN6gYa10SHpcxL81R5Dg8M) (Please download and then view the PPT)
+* [Power point](https://drive.google.com/open?id=1OPliD8-DvYJN6gYa10SHpcxL81R5Dg8M) (Please view in Slide Show)
 * Poster or Invitation 
   - [JPEG File](https://drive.google.com/open?id=1YjsoHlsFJWJsPOc_dUPtZwDIYdyvw3wa) 
   - [PSD File](https://drive.google.com/open?id=1bE3GxAH0xXDvsPB6fTELZTaG3NhnkEko)
